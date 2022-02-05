@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gogulg
-- 👀 I’m interested in React
-- 🌱 I’m currently learning Mern Stack
+- 👀 I’m interested in Angular
+- 🌱 I’m currently learning Mean Stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
